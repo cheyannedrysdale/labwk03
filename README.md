@@ -39,3 +39,17 @@
 * :hatching_chick:
   
 :fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles::fairy_woman::sparkles:
+
+## Shortcuts I Frequently Use:
+- command-C: copy
+- command-V: paste
+- command-Z: undo
+- command-F: find
+- command-Delete: delete.. but quickly
+
+## Shortcuts I Am Definitely Going To Start Using (Thank You Google :smile: ):
+- command-space: opens search
+- command-L: highlights URL bar in browser
+- command-Q: quit application
+- command-control-Q: lock
+- command-W: close tab/window
