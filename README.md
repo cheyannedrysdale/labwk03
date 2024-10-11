@@ -17,7 +17,7 @@
 - [Google] (www.google.com) 
 - [NetAcad] (www.netacad.ca)
 - [Github] (www.github.com) 
-- [CLI Commands] (www.github.com/cheyannedrydale/labwk03/cli.md)
+- [CLI Commands] (https://github.com/cheyannedrysdale/labwk03/blob/main/cli.md)
 
 
 
