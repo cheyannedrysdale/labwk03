@@ -18,6 +18,7 @@
 - [NetAcad] (www.netacad.ca)
 - [Github] (www.github.com) 
 - [CLI Commands] (https://github.com/cheyannedrysdale/labwk03/blob/main/cli.md)
+- [SQL] (https://github.com/cheyannedrysdale/cheyannedrysdale/blob/main/lab11.sql)
 
 
 
